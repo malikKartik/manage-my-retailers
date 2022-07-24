@@ -64,3 +64,7 @@
 ::1 - - [24/Jul/2022:07:38:10 +0000] "GET /product/retailers/62dceeab00120008aa8f33d7 HTTP/1.1" 200 880 "-" "PostmanRuntime/7.29.0"
 ::1 - - [24/Jul/2022:07:39:52 +0000] "POST /product/sign-retailer HTTP/1.1" 200 7 "-" "PostmanRuntime/7.29.0"
 ::1 - - [24/Jul/2022:07:40:03 +0000] "GET /product/retailers/62dceef000120008aa8f33db HTTP/1.1" 200 758 "-" "PostmanRuntime/7.29.0"
+::1 - - [24/Jul/2022:08:36:30 +0000] "GET / HTTP/1.1" 200 123 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+::1 - - [24/Jul/2022:08:36:31 +0000] "GET /favicon.ico HTTP/1.1" 200 123 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+::1 - - [24/Jul/2022:08:37:16 +0000] "GET / HTTP/1.1" 200 138 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+::1 - - [24/Jul/2022:08:37:17 +0000] "GET /favicon.ico HTTP/1.1" 200 138 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
