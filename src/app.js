@@ -22,7 +22,7 @@ app.use("/retailer", retailerRouter)
 
 
 app.use(function (req, res, next) {
-  next(createError(404));
+  res.status(200).send("Application is up and running - refer to the postman collection https://www.getpostman.com/collections/8a463250b9edf2faca98")
 });
 
 module.exports = app;
